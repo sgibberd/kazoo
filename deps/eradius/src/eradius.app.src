@@ -1,0 +1,15 @@
+%% vim: ft=erlang
+{application, eradius, [
+   {description, "Erlang RADIUS server"},
+   {vsn, "1"},
+   {registered, [eradius_dict, eradius_sup, eradius_server_top_sup, eradius_server_sup, eradius_server_mon]},
+   {applications, [kernel, stdlib, crypto]},
+   {mod, {eradius, []}},
+   {env, [
+      {servers, []},
+      {logfile, "./radius.log"},
+      {tables, [dictionary,dictionary_freeradius]},
+      {client_ip, "0.0.0.0"},
+      {client_ports, 20}
+   ]}
+]}.

@@ -1,0 +1,5 @@
+-define( Telebit_Accounting_Info , {117,4} ).
+-define( Telebit_Activate_Command , {117,3} ).
+-define( Telebit_Port_Name , {117,2} ).
+-define( Telebit_Login_Command , {117,1} ).
+-define( Telebit , 117 ).

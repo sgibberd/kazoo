@@ -1,0 +1,2 @@
+-define( Colubris_AVPair , {8744,0} ).
+-define( Colubris , 8744 ).

@@ -1,0 +1,8 @@
+-define( CVPN5000_Client_Assigned_IPX , {255,7} ).
+-define( CVPN5000_Echo , {255,6} ).
+-define( CVPN5000_VPN_Password , {255,5} ).
+-define( CVPN5000_VPN_GroupInfo , {255,4} ).
+-define( CVPN5000_Client_Real_IP , {255,3} ).
+-define( CVPN5000_Client_Assigned_IP , {255,2} ).
+-define( CVPN5000_Tunnel_Throughput , {255,1} ).
+-define( Cisco_VPN5000 , 255 ).

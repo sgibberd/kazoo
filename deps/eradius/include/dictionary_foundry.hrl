@@ -1,0 +1,4 @@
+-define( Foundry_Command_Exception_Flag , {1991,3} ).
+-define( Foundry_Command_String , {1991,2} ).
+-define( Foundry_Privilege_Level , {1991,1} ).
+-define( Foundry , 1991 ).

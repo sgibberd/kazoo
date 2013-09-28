@@ -1,0 +1,4 @@
+-define( Extreme_Netlogin_Url_Desc , {1916,205} ).
+-define( Extreme_Netlogin_Url , {1916,204} ).
+-define( Extreme_Netlogin_Vlan , {1916,203} ).
+-define( Extreme , 1916 ).

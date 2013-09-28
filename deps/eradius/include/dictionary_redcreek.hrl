@@ -1,0 +1,10 @@
+-define( RedCreek_Tunneled_Search_List , {1958,13} ).
+-define( RedCreek_Tunneled_DomainName , {1958,12} ).
+-define( RedCreek_Tunneled_HostName , {1958,11} ).
+-define( RedCreek_Tunneled_WINS_Server2 , {1958,10} ).
+-define( RedCreek_Tunneled_WINS_Server1 , {1958,9} ).
+-define( RedCreek_Tunneled_DNS_Server , {1958,8} ).
+-define( RedCreek_Tunneled_Gateway , {1958,7} ).
+-define( RedCreek_Tunneled_IP_Netmask , {1958,6} ).
+-define( RedCreek_Tunneled_IP_Addr , {1958,5} ).
+-define( RedCreek , 1958 ).

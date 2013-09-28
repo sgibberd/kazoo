@@ -1,0 +1,2 @@
+-define( Freeradius_Proxied_To , {11344,1} ).
+-define( FreeRADIUS , 11344 ).

@@ -1,0 +1,7 @@
+-define( Xedia_Client_Access_Network , {838,6} ).
+-define( Xedia_SSH_Privileges , {838,5} ).
+-define( Xedia_PPP_Echo_Interval , {838,4} ).
+-define( Xedia_Address_Pool , {838,3} ).
+-define( Xedia_NetBios_Server , {838,2} ).
+-define( Xedia_DNS_Server , {838,1} ).
+-define( Xedia , 838 ).

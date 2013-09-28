@@ -1,0 +1,4 @@
+-define( Shasta_VPN_Name , {3199,3} ).
+-define( Shasta_Service_Profile , {3199,2} ).
+-define( Shasta_User_Privilege , {3199,1} ).
+-define( Shasta , 3199 ).

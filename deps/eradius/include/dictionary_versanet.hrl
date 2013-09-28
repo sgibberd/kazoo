@@ -1,0 +1,2 @@
+-define( Versanet_Termination_Cause , {2180,1} ).
+-define( Versanet , 2180 ).

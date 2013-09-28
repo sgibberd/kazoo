@@ -1,0 +1,3 @@
+-define( Cabletron_Protocol_Callable , {52,202} ).
+-define( Cabletron_Protocol_Enable , {52,201} ).
+-define( Cabletron , 52 ).

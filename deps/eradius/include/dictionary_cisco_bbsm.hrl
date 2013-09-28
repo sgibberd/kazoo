@@ -1,0 +1,2 @@
+-define( CBBSM_Bandwidth , {5263,1} ).
+-define( Cisco_BBSM , 5263 ).

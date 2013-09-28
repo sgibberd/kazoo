@@ -1,0 +1,5 @@
+-define( Alteon_ASA_Audit_Source , {1872,3} ).
+-define( Alteon_ASA_Audit_Trail , {1872,2} ).
+-define( Alteon_Xnet_Group , {1872,1} ).
+-define( Alteon_Service_Type , {1872,26} ).
+-define( Alteon , 1872 ).

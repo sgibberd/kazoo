@@ -1,0 +1,6 @@
+-define( Juniper_Deny_Configuration , {2636,5} ).
+-define( Juniper_Allow_Configuration , {2636,4} ).
+-define( Juniper_Deny_Commands , {2636,3} ).
+-define( Juniper_Allow_Commands , {2636,2} ).
+-define( Juniper_Local_User_Name , {2636,1} ).
+-define( Juniper , 2636 ).

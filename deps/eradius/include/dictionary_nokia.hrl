@@ -1,0 +1,5 @@
+-define( Nokia_SGSN_IP_Address , 228 ).
+-define( Nokia_GGSN_IP_Address , 227 ).
+-define( Nokia_Prepaid_Ind , 226 ).
+-define( Nokia_Charging_Id , 225 ).
+-define( Nokia_IMSI , 224 ).

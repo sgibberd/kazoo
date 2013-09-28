@@ -1,0 +1,5 @@
+-define( Sip_Translated_Request_URI , {11862,4} ).
+-define( Sip_To , {11862,2} ).
+-define( Sip_From , {11862,1} ).
+-define( Sip_Method , {11862,0} ).
+-define( Columbia_University , 11862 ).

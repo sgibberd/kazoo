@@ -1,0 +1,8 @@
+-define( NS_Secondary_WINS , {3224,7} ).
+-define( NS_Primary_WINS , {3224,6} ).
+-define( NS_Secondary_DNS , {3224,5} ).
+-define( NS_Primary_DNS , {3224,4} ).
+-define( NS_User_Group , {3224,3} ).
+-define( NS_VSYS_Name , {3224,2} ).
+-define( NS_Admin_Privilege , {3224,1} ).
+-define( Netscreen , 3224 ).

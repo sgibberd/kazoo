@@ -1,0 +1,12 @@
+-define( WISPr_Billing_Class_Of_Service , {14122,11} ).
+-define( WISPr_Session_Terminate_End_Of_Day , {14122,10} ).
+-define( WISPr_Session_Terminate_Time , {14122,9} ).
+-define( WISPr_Bandwidth_Max_Down , {14122,8} ).
+-define( WISPr_Bandwidth_Max_Up , {14122,7} ).
+-define( WISPr_Bandwidth_Min_Down , {14122,6} ).
+-define( WISPr_Bandwidth_Min_Up , {14122,5} ).
+-define( WISPr_Redirection_URL , {14122,4} ).
+-define( WISPr_Logoff_URL , {14122,3} ).
+-define( WISPr_Location_Name , {14122,2} ).
+-define( WISPr_Location_ID , {14122,1} ).
+-define( WISPr , 14122 ).

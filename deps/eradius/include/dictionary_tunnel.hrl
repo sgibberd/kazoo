@@ -1,0 +1,12 @@
+-define( Tunnel_Server_Auth_Id , 91 ).
+-define( Tunnel_Client_Auth_Id , 90 ).
+-define( Acct_Tunnel_Packets_Lost , 86 ).
+-define( Tunnel_Preference , 83 ).
+-define( Tunnel_Assignment_Id , 82 ).
+-define( Tunnel_Private_Group_Id , 81 ).
+-define( Tunnel_Password , 69 ).
+-define( Tunnel_Connection_Id , 68 ).
+-define( Tunnel_Server_Endpoint , 67 ).
+-define( Tunnel_Client_Endpoint , 66 ).
+-define( Tunnel_Medium_Type , 65 ).
+-define( Tunnel_Type , 64 ).

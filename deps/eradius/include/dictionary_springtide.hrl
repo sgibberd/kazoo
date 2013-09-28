@@ -1,0 +1,9 @@
+-define( ST_Secondary_NBNS_Server , {3551,8} ).
+-define( ST_Primary_NBNS_Server , {3551,7} ).
+-define( ST_Secondary_DNS_Server , {3551,6} ).
+-define( ST_Primary_DNS_Server , {3551,5} ).
+-define( ST_Policy_Name , {3551,4} ).
+-define( ST_Service_Domain , {3551,3} ).
+-define( ST_Service_Name , {3551,2} ).
+-define( ST_Acct_VC_Connection_Id , {3551,1} ).
+-define( SpringTide , 3551 ).
